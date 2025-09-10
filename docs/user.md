@@ -5,7 +5,7 @@ outline: deep
 
 <div class="blog-hero">
   <img class="avatar" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="avatar" />
-  <h1>你好，我是 <span class="name">Your Name</span></h1>
+  <h1>你好，我是 <span class="name">jun-yang-he</span></h1>
   <p class="subtitle">记录所学、所思与所做 | 前端 · 笔记 · 生活</p>
   <div class="cta">
     <a class="btn primary" href="#posts">最新文章</a>
@@ -55,8 +55,8 @@ outline: deep
 
 ## 联系我 {#contact}
 
-- 邮箱：your.name@example.com
-- GitHub：`https://github.com/yourname`
+- 邮箱：www.hejyang@gougle
+- GitHub：`https://github.com/jun-yang-he`
 - 微信：请备注“博客”
 
 <style>
