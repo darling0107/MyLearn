@@ -13,6 +13,9 @@ hero:
     - theme: alt
       text: 文档
       link: /api-examples
+    - theme: alt
+      text: 个人简历
+      link: /user
 
 features:
   - title: 简洁高效
